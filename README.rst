@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJafnee%2Fdjango-environ.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJafnee%2Fdjango-environ?ref=badge_shield)
+
 ==============
 Django-environ
 ==============
@@ -410,3 +412,6 @@ Credits
     :alt: Package license
 
 .. _LICENSE_FILE: https://github.com/joke2k/django-environ/blob/master/LICENSE.txt
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJafnee%2Fdjango-environ.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJafnee%2Fdjango-environ?ref=badge_large)
